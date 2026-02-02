@@ -10,12 +10,13 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 ## 🌐 Socials:
 
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rahman-f-0b4612270/">
-    <img src="https://user-images.githubusercontent.com" width="45%" alt="LinkedIn" />
+  <a href="https://www.linkedin.com">
+    <img src="https://user-images.githubusercontent.com" width="150" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/far.vion">
-    <img src="https://user-images.githubusercontent.com" width="45%" alt="Instagram" />
+  <a href="https://www.instagram.com">
+    <img src="https://user-images.githubusercontent.com" width="150" alt="Instagram" />
   </a>
 </p>
 
