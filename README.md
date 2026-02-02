@@ -11,14 +11,8 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://user-images.githubusercontent.com" width="150" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com">
-    <img src="https://user-images.githubusercontent.com" width="150" alt="Instagram" />
-  </a>
-</p>
+[![LinkedIn](https://user-images.githubusercontent.com)](https://www.linkedin.com) [![Instagram](https://user-images.githubusercontent.com)](https://www.instagram.com)
+
 
 
 
