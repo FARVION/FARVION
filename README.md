@@ -9,13 +9,19 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/abdul-rahman-f-0b4612270/">
-  <gif src="https://github.com/user-attachments/assets/7133cdc9-b3fc-4cd0-8530-bf36d47b5f0b" width="80" height="80" alt="LinkedIn Profile GIF">
-</a>
+<p align="left">
+  <!-- LinkedIn GIF Link -->
+  <a href="https://www.linkedin.com">
+    <img src="https://github.com/user-attachments/assets/f0062612-9b47-4ac1-a1aa-d505739f20d6" width="80" height="80" alt="LinkedIn Profile">
+  </a>
 
-<a href="https://www.instagram.com/far.vion?igsh=MXVlZWo5emMwcjMyZw==">
-  <gif src="https://github.com/user-attachments/assets/63f34325-7113-4d9b-9cc1-3b9bacace7fa" width="80" height="80" alt="Instagram Profile">
-</a>
+  &nbsp;&nbsp; <!-- Adds space between the two icons -->
+
+  <!-- Instagram GIF Link -->
+  <a href="https://www.instagram.com">
+    <img src="https://github.com/user-attachments/assets/8e501b96-53ea-496f-ac59-b67c24b8e079" width="80" height="80" alt="Instagram Profile">
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
