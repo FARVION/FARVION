@@ -10,18 +10,14 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 ## 🌐 Socials:
 
 <p align="left">
-  <!-- LinkedIn GIF Link -->
+  <!-- LinkedIn GIF -->
   <a href="https://www.linkedin.com">
-    <img src="https://github.com/user-attachments/assets/f0062612-9b47-4ac1-a1aa-d505739f20d6" width="80" height="80" alt="LinkedIn Profile">
+    <img src="https://user-images.githubusercontent.com" width="80" height="80" alt="LinkedIn">
   </a>
 
-  &nbsp;&nbsp; <!-- Adds space between the two icons -->
-
-  <!-- Instagram GIF Link -->
+  <!-- Instagram GIF -->
   <a href="https://www.instagram.com">
-    <img src="https://github.com/user-attachments/assets/8e501b96-53ea-496f-ac59-b67c24b8e079" width="80" height="80" alt="Instagram Profile">
-  </a>
-</p>
+    <img src="
 
 
 # 💻 Tech Stack:
