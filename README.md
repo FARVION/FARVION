@@ -9,8 +9,9 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 
 ## 🌐 Socials:
 
-<img width="1080" height="80" alt="image" src="https://github.com/user-attachments/assets/67683be1-cd74-484e-bb64-f5f09f68e43c" />
-<img width="1080" height="80" alt="image" src="https://github.com/user-attachments/assets/93d93523-0a11-48b9-9525-cba81faaee76" />
+<img width="100" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd9c3114-91dc-467f-bb4b-4f49ec984039" />
+<img width="100" height="1080" alt="image" src="https://github.com/user-attachments/assets/6dd92047-b515-43ca-a197-46a5478ada9d" />
+
 
 
 
