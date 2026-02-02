@@ -10,7 +10,7 @@ AI & DS Engineer | B.Tech | Data SCience , ML and a GenAI Practitioner 💻
 ## 🌐 Socials:
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abdul-rahman-f-0b4612270/">
     <img src="https://github.com/user-attachments/assets/9e78b93a-f5d7-406b-a2ff-b12cd887fc07" width="100" alt="LinkedIn" />
   </a>
